@@ -49,6 +49,7 @@ This task analyzes monthly revenue and order volume trends from an `online_sales
 
 - `online_sales.sql` — SQL script with all analysis queries  
 - `online_sales.db` *(optional)* — SQLite database file with sample data
+- `Monthly_Revenue_Analysis.pdf` - Report of the Table with output
 
 ---
 
@@ -57,7 +58,7 @@ This task analyzes monthly revenue and order volume trends from an `online_sales
 1. Install SQLite or open **DB Browser for SQLite**.
 2. Load the `online_sales.db`.
 3. Run queries from `online_sales.sql`.
-4. View and export results.
+4. View and export results as pdf
 
 ---
 
