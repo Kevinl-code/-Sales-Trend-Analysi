@@ -83,8 +83,8 @@ Bishop Heber College, Trichy
 
 ## 📬 Contact
 
-📧 kevinlazarus@example.com *(Replace with your real one)*  
-🔗 [LinkedIn](https://linkedin.com/in/kevinlazarus) *(optional)*
+📧 kevinlazarus2003@gmail.com *(Replace with your real one)*  
+🔗 [LinkedIn](https://linkedin.com/in/kevinlazarusb) *(optional)*
 
 ---
 
